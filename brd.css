@@ -11,7 +11,7 @@ body{
     margin: 4px;
     padding: 10px;
     background: linear-gradient(rgba(0,0,0,0.6),rgb(0,0,0,0.3)),
-    url(image/bg.jpg) ;
+    url(bg.jpg) ;
     background-size: cover;
 }
 
@@ -50,7 +50,7 @@ h1{
     background-position-x:0 ;
    /* background-color: #eee;  */
     background: linear-gradient(rgba(0,0,0,0.5),rgb(0,0,0,0.7)),
-    url(image/card-bg.jpg) center no-repeat;
+    url(card-bg.jpg) center no-repeat;
     background-size: cover;
     width: 50%;
     height: 100%;
@@ -65,7 +65,7 @@ h1{
 
     background: position x -180px; ;
     background: linear-gradient(rgba(0,0,0,0.5),rgb(0,0,0,0.7)),
-    url(image/card-bg.jpg) center no-repeat;
+    url(card-bg.jpg) center no-repeat;
     background-size: cover;
 
     width: 50%;
